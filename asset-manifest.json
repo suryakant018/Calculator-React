@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//suryakant018.github.io/Calculator-React/static/css/main.8ddfa2b5.css",
+    "main.js": "//suryakant018.github.io/Calculator-React/static/js/main.8bc6723e.js",
+    "index.html": "//suryakant018.github.io/Calculator-React/index.html",
+    "main.8ddfa2b5.css.map": "//suryakant018.github.io/Calculator-React/static/css/main.8ddfa2b5.css.map",
+    "main.8bc6723e.js.map": "//suryakant018.github.io/Calculator-React/static/js/main.8bc6723e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ddfa2b5.css",
+    "static/js/main.8bc6723e.js"
+  ]
+}
